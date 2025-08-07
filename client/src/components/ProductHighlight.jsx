@@ -13,9 +13,9 @@ function ProductHighlight() {
             <ProductCard imgSrc="https://picsum.photos/id/231/200/200" />
             
         */}
-          <ProductCard />
-          <ProductCard />
-          <ProductCard />
+          <ProductCard productName="The Lorem Ipsum for photos." imgSRC="https://picsum.photos/id/231/200/200" price="$99.99"/>
+          <ProductCard productName="Wireless Bluetooth Earbuds" imgSRC="https://picsum.photos/id/232/200/200" price="$79.99"/>
+          <ProductCard productName="Stylish Cool Sunglasses in The World" imgSRC="https://picsum.photos/200/200" price="$79.99"/>
         </div>
       </div>
     </section>
